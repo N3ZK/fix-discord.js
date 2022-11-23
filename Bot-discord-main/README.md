@@ -15,9 +15,9 @@ sudo apt-get install npm
 npm install discord.js
 ```
 
-## Depancies
+## Fix broken npm 
 
-- You can see in package-lock.json...
+- You can see in config.md
 
 ## How to build bot
 
